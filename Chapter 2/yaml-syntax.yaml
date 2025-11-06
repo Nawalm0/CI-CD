@@ -1,0 +1,20 @@
+# key value pair
+
+
+name : Rowaida
+age: 22
+job: Ass wiper
+
+# Lists
+
+fruits:
+- Apple
+- Banana
+- Chery
+
+#Nested Elements
+
+address:
+  Street: 123 downing Street
+  city: london
+  County: UK
